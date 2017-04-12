@@ -17,13 +17,7 @@ Loadable Kernel Module using C
                                                3. Network Driver
                                                4. TTY (teli Type Terminals)
 
-Advantages of kernel Module-
 
-1. Easy to Insert and Remove from memory.
-2. We can Insert it without rebooting the kernel.
-3 We can easily Remove it from memory when its used gets completed.
+for more details visit the follownig link
 
-Disadvantages of kernel Module-
-
-1. Due to loading and unloading of kernel module their is fragmentation in kernel memory.
-
+http://sachincodeview.blogspot.in/2017/01/linux-kernel-module.html
