@@ -25,4 +25,8 @@ http://sachincodeview.blogspot.in/2017/01/linux-kernel-module.html
 
 ///////////////////////////////////////////////////////////////////////////
 
-here   
+here   userFile.c is to access that Device Driver file.
+just compile the file. 
+
+and char.ko is kernel object file which we inserting into the running kernel.
+char.c is a device driver programe.
